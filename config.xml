@@ -36,12 +36,12 @@
    
       
        <platform name="android">
-        <icon src="res/icon/android/ldpi" qualifier="ldpi"/>
-        <icon src="res/icon/android/mdpi" qualifier="mdpi"/>
-        <icon src="res/icon/android/hdpi" qualifier="hdpi"/>
-        <icon src="res/icon/android/xhdpi" qualifier="xhdpi"/>
-        <icon src="res/icon/android/xxhdpi" qualifier="xxhdpi"/>
-        <icon src="res/icon/android/xxxhdpi" qualifier="xxxhdpi"/>
+        <icon src="res/icon/android/ldpi.png" qualifier="ldpi"/>
+        <icon src="res/icon/android/mdpi.png" qualifier="mdpi"/>
+        <icon src="res/icon/android/hdpi.png" qualifier="hdpi"/>
+        <icon src="res/icon/android/xhdpi.png" qualifier="xhdpi"/>
+        <icon src="res/icon/android/xxhdpi.png" qualifier="xxhdpi"/>
+        <icon src="res/icon/android/xxxhdpi.png" qualifier="xxxhdpi"/>
       </platform>
       
  
