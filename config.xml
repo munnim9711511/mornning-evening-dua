@@ -4,7 +4,7 @@
     id          = "com.dua.munnim "
     versionCode = "1" 
     version     = "1.0.0" >
-   <name>SAMOCA</name>
+   <name>Morning Evening Dua</name>
     <description>
             an app with morning and evening duas 
     </description>
