@@ -1,4 +1,5 @@
 $(() => {
+    var tasbeeha_0 = 0;
     var tasbeeha_1 = 0;
     var tasbeeha_2 = 0;
     var tasbeeha_3 = 0;
@@ -23,6 +24,12 @@ $(() => {
     var tasbeeha_21 = 0;
     var tasbeeha_22 = 0;
 
+
+    $("#btn0").on("click", () => {
+        tasbeeha_0++;
+        $("#span_0").text(tasbeeha_0);
+    })
+    
     $("#btn1").on("click", () => {
         tasbeeha_1++;
         $("#span_1").text(tasbeeha_1);

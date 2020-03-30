@@ -2,3 +2,11 @@
     padding: 10px;
     
 }
+@font-face {
+    font-family: arabic;
+    src: url(trado.ttf);
+  }
+
+  .arab{
+      font-family: arabic;
+  }
